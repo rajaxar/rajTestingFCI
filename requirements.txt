@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 geopy
 numpy
+=======
+geopy
+numpy
+>>>>>>> e1ed221be8f452f4d6f0a386df2ea15f3ab7de09
 pandas
